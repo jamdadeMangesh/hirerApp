@@ -1,0 +1,408 @@
+{
+  "notifications": [
+    {
+      "id": 2,
+      "username": "John Smith",
+      "message": " has sent a message about his timesheet <script>alert('This is an alert');</script>. Another text",
+      "date": "20/12/22",
+      "setIcon": "message",
+      "isNew": true
+    },
+    {
+      "id": 3,
+      "username": "Jackie Walker",
+      "message": "has submitted a timesheet",
+      "date": "20/12/22",
+      "setIcon": "timesheet",
+      "isNew": false
+    },
+    {
+      "id": 4,
+      "username": "John Smith",
+      "message": " has sent a message about his timesheet",
+      "date": "20/12/22",
+      "setIcon": "message",
+      "isNew": false
+    }
+  ],
+  "myAccount": [
+    {
+      "title": "Miss",
+      "firstName": "",
+      "middleName": "",
+      "lastName": "",
+      "mobileNumber": "+44 (0) 7513 438167",
+      "Push": false,
+      "id": 1
+    }
+  ],
+  "timesheet": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "category": "Food Picking Inc",
+      "status": "Awaiting approval",
+      "date": "17th May - 23rd May, 2020",
+      "hours": 27.5,
+      "pay": 8,
+      "entryDate": "01 Dec",
+      "isVisited": "true"
+    },
+    {
+      "id": 2,
+      "name": "Jason Matthews",
+      "category": "Ocado Picker",
+      "status": "Client edited",
+      "date": "17th May - 23rd May, 2020",
+      "hours": 27.5,
+      "pay": 8,
+      "entryDate": "28 Nov",
+      "isVisited": "true"
+    },
+    {
+      "id": 3,
+      "name": "Jess Whitmore",
+      "category": "Food Picking Inc",
+      "status": "Awaiting submission",
+      "date": "17th May - 23rd May, 2020",
+      "hours": 27.5,
+      "pay": 8,
+      "entryDate": "30 Nov",
+      "isVisited": "false"
+    },
+    {
+      "id": 4,
+      "name": "Jeniffer Smith",
+      "category": "Food Picking Inc",
+      "status": "Awaiting submission",
+      "date": "17th May - 23rd May, 2020",
+      "hours": 7.5,
+      "pay": 8,
+      "entryDate": "30 Nov",
+      "isVisited": "false"
+    },
+    {
+      "id": 5,
+      "name": "Jackie Walker",
+      "category": "The Carpentry Corp",
+      "status": "Not entered",
+      "date": "17th May - 23rd May, 2020",
+      "hours": 7.5,
+      "pay": 8,
+      "entryDate": "30 Nov",
+      "isVisited": "false"
+    },
+    {
+      "id": 6,
+      "name": "Michael Dune",
+      "category": "Food Picking Inc",
+      "status": "Approved",
+      "date": "17th May - 23rd May, 2020",
+      "hours": 7.5,
+      "pay": 8,
+      "entryDate": "30 Nov",
+      "isVisited": "false"
+    },
+    {
+      "id": 8,
+      "name": "Harvey Willis",
+      "category": "Food Picking Inc",
+      "status": "Not entered",
+      "date": "17th May - 23rd May, 2020",
+      "hours": 7.5,
+      "pay": 8,
+      "entryDate": "30 Nov",
+      "isVisited": "false"
+    },
+    {
+      "id": 9,
+      "name": "Jessica Williams",
+      "category": "Food Picking Inc",
+      "status": "Query",
+      "date": "17th May - 23rd May, 2020",
+      "hours": 7.5,
+      "pay": 8,
+      "entryDate": "30 Nov",
+      "isVisited": "false"
+    },
+    {
+      "id": 10,
+      "name": "Joe Karry",
+      "category": "Food Picking Inc",
+      "status": "Recalled",
+      "date": "17th May - 23rd May, 2020",
+      "hours": 7.5,
+      "pay": 8,
+      "entryDate": "30 Nov",
+      "isVisited": "false"
+    }
+  ],
+  "edittimesheet": [
+    {
+      "id": 1,
+      "date": {
+        "date": "17",
+        "day": "Mon"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    },
+    {
+      "id": 2,
+      "date": {
+        "date": "18",
+        "day": "tue"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    },
+    {
+      "id": 3,
+      "date": {
+        "date": "19",
+        "day": "Wed"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    },
+    {
+      "id": 4,
+      "date": {
+        "date": "20",
+        "day": "Thu"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    },
+    {
+      "id": 5,
+      "date": {
+        "date": "21",
+        "day": "Fri"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    },
+    {
+      "id": 6,
+      "date": {
+        "date": "22",
+        "day": "Sat"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    },
+    {
+      "id": 7,
+      "date": {
+        "date": "23",
+        "day": "Sun"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    }
+  ],
+  "timesheetdetail": [
+    {
+      "id": 1,
+      "date": {
+        "date": "17",
+        "day": "Mon"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    },
+    {
+      "id": 2,
+      "date": {
+        "date": "18",
+        "day": "Tue"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    },
+    {
+      "id": 3,
+      "date": {
+        "date": "19",
+        "day": "Wed"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    },
+    {
+      "id": 4,
+      "date": {
+        "date": "20",
+        "day": "Thu"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    },
+    {
+      "id": 5,
+      "date": {
+        "date": "21",
+        "day": "Fri"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    },
+    {
+      "id": 6,
+      "date": {
+        "date": "22",
+        "day": "Sat"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    },
+    {
+      "id": 7,
+      "date": {
+        "date": "23",
+        "day": "Sun"
+      },
+      "startTime": "09:00",
+      "endTime": "15:30",
+      "total": "05:30"
+    }
+  ],
+  "timetrackers":[
+    {
+      "shiftId": "1",
+      "shift": "Shift 04:00 - 9:30",
+      "placements":"2 placements",
+      "usersinfo":[
+        {
+          "id": 1,
+      "name": "Lisa Willow",
+      "category": "Farnborough Store",
+      "status": "Completed",
+      "checkin": "09:00",
+      "checkout": "09:30",
+      "label": "Timesheet Submitted"
+      
+        },
+        {
+          "id": 2,
+          "name": "Jordan Jameson",
+          "category": "Farnborough Store",
+          "status": "Completed",
+          "checkin": "04:00",
+          "checkout": "09:30",
+          "label": ""
+         
+        }
+
+      ]
+    },
+
+
+
+    {
+      "shiftId": "2",
+      "shift": "Shift 09:00 - 13:00",
+      "placements":"3 placements",
+      "usersinfo":[
+        {
+          "id": 3,
+          "name": "James Calm",
+          "category": "Birmingham Warehouse",
+          "status": "No Show",
+          "checkin": "00:00",
+          "checkout": "00:00",
+          "label": ""
+        },
+        {
+          "id": 4,
+          "name": "Lindsay Smith",
+          "category": "Farnborough Store",
+          "status": "In Progress",
+          "checkin": "09:00",
+          "checkout": "00:00",
+          "label": ""
+        },
+        {
+          "id": 5,
+          "name": "Jess Matthews",
+          "category": "Farnborough Store",
+          "status": "In Progress",
+          "checkin": "09:00",
+          "checkout": "00:00",
+          "label": "",
+          "shift": "Second"
+        }
+      ]
+    },
+
+
+    {
+      "shiftId": "3",
+      "shift": "Shift 09:00 - 17:00",
+      "placements":"3 placements",
+      "usersinfo":[
+        {
+          "id": 6,
+          "name": "Jackie Walker",
+          "category": "Birmingham Warehouse",
+          "status": "In Progress",
+          "checkin": "09:00",
+          "checkout": "00:00",
+          "label": "",
+          "shift": "Third"
+        },
+        {
+          "id": 7,
+          "name": "David Wilson",
+          "category": "Farnborough Store",
+          "status": "In Progress",
+          "checkin": "09:00",
+          "checkout": "00:00",
+          "label": "",
+          "shift": "Third"
+        },
+        {
+          "id": 8,
+          "name": "Michael Davidson",
+          "category": "Birmingham Warehouse",
+          "status": "In Progress",
+          "checkin": "09:00",
+          "checkout": "00:00",
+          "label": "",
+          "shift": "Third"
+        }
+      ]
+    },
+
+    {
+      "shiftId": "4",
+      "shift": "Shift 14:00 - 20:00",
+      "placements":"1 placements",
+      "usersinfo":[
+        {
+          "id": 9,
+          "name": "Josh Anderson",
+          "category": "Birmingham Warehouse",
+          "status": "Scheduled",
+          "checkin": "00:00",
+          "checkout": "00:00",
+          "label": ""
+        }
+      ]
+    }
+  ]
+}
