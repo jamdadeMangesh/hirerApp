@@ -27,11 +27,11 @@
   ],
   "myAccount": [
     {
-      "title": "Miss",
-      "firstName": "",
+      "title": "Mr",
+      "firstName": "Mangesh",
       "middleName": "",
       "lastName": "",
-      "mobileNumber": "+44 (0) 7513 438167",
+      "mobileNumber": "123-123-1234",
       "Push": false,
       "id": 1
     }
