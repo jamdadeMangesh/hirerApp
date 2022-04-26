@@ -214,7 +214,7 @@
         {
           "id": 6,
           "name": "Jackie Walker",
-          "category": "Birmingham Warehouse",
+          "category": "Farnborough Warehouse",
           "status": "In Progress",
           "checkin": "09:00",
           "checkout": "00:00",
@@ -252,7 +252,7 @@
         {
           "id": 9,
           "name": "Josh Anderson",
-          "category": "Birmingham Warehouse",
+          "category": "Manchester Warehouse",
           "status": "Scheduled",
           "checkin": "00:00",
           "checkout": "00:00",
