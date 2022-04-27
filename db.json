@@ -141,7 +141,7 @@
     {
       "shiftId": "1",
       "shift": "Shift 04:00 - 9:30",
-      "placements":"2 placements",
+      "placements":"2",
       "usersinfo":[
         {
           "id": 1,
@@ -172,7 +172,7 @@
     {
       "shiftId": "2",
       "shift": "Shift 09:00 - 13:00",
-      "placements":"3 placements",
+      "placements":"3",
       "usersinfo":[
         {
           "id": 3,
@@ -209,7 +209,7 @@
     {
       "shiftId": "3",
       "shift": "Shift 09:00 - 17:00",
-      "placements":"3 placements",
+      "placements":"3",
       "usersinfo":[
         {
           "id": 6,
@@ -247,7 +247,7 @@
     {
       "shiftId": "4",
       "shift": "Shift 14:00 - 20:00",
-      "placements":"1 placement",
+      "placements":"1",
       "usersinfo":[
         {
           "id": 9,
